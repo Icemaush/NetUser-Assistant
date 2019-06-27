@@ -1,2 +1,2 @@
-# WAPScan
-Monitor connect devices and traffic on a Cisco wireless access point.
+# NetUser Assistant
+A tool to assist in adding users to a PC via the "netuser add" command line command.
